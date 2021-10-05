@@ -13,6 +13,9 @@ import java.util.List;
  * Version 1.0
  **/
 public class _94中序遍历 {
+    public static void main(String[] args) {
+
+    }
     /*
     public List<Integer> inorderTraversal(TreeNode root) {//栈
         List<Integer> res = new ArrayList<Integer>();
