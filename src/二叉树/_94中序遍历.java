@@ -14,7 +14,7 @@ import java.util.List;
  **/
 public class _94中序遍历 {
     public static void main(String[] args) {
-
+        System.out.println("hello git1");
     }
     /*
     public List<Integer> inorderTraversal(TreeNode root) {//栈
